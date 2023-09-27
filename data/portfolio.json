@@ -30,14 +30,14 @@
         "id": "1",
         "title": "Kubernetes and Docker hosting",
         "description": "AWS",
-        "imageSrc": "https://unsplash.com/photos/hfiym43qBpk",
+        "imageSrc": "https://images.unsplash.com/photo-hfiym43qBpk?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
         "url": "https://www.youtube.com/watch?v=5eb2ZRh0eCU&ab_channel=JakobOssmann"
       },
       {
         "id": "2",
         "title": "AR Mobile Game",
         "description": "Augmented Reality",
-        "imageSrc": "https://unsplash.com/photos/XafWZ1vlsww",
+        "imageSrc": "../public/images/argame.png",
         "url": "https://www.youtube.com/watch?v=aapWuwJGV_U&ab_channel=JakobOssmann"
       }
     ],
