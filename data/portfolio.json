@@ -41,7 +41,7 @@
         "url": "https://www.youtube.com/watch?v=aapWuwJGV_U&ab_channel=JakobOssmann"
       }
     ],
-    "service": [
+    "services": [
       {
         "id": "1",
         "title": "Front-End Development",
