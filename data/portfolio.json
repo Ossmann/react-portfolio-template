@@ -55,7 +55,7 @@
         "url": "https://youtu.be/TLYWRXYpmxc"
       }
     ],
-    "Services": [
+    "services": [
       {
         "id": "1",
         "title": "Front-End Development",
