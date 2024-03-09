@@ -4,7 +4,7 @@ import Image from 'next/image';
 import { ThemeProvider } from "next-themes";
 
 const SearchLightPrivacyPolicy = () => {
-    const imageSrc = "/images/SearchLight_icon.jpg"; // Provide the correct path to your image
+    const imageSrc = "/images/SearchLight_icon.png"; // Provide the correct path to your image
   
     return (
       <ThemeProvider>

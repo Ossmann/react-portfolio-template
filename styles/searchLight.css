@@ -5,16 +5,17 @@
 .container {
     max-width: 800px;
     margin: 0 auto;
+    padding: 40px;
   }
 
   body {
-    background: linear-gradient(to bottom, transparent, transparent 50%, #7BAFFE 50%, #BCD4F8);
+    background: linear-gradient(to bottom right, transparent 0%, #BCD4F8 25%, #7BAFFE, #BCD4F8 75%, transparent 100%);
 }
 
   
   /* Customize styles for specific elements on your page */
   h3 {
-    color: #333;
+    font-weight: 600;
   }
   
   p {
