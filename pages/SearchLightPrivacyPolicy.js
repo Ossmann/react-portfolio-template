@@ -1,10 +1,10 @@
 // New Subpage for the Privacy Policy of SearchLight App
 
-import "../styles/globals.css";
+import "../styles/searchLight.css"; // Import custom page-specific CSS
 import Image from 'next/image';
 import { ThemeProvider } from "next-themes";
 
-const NewSubpage = () => {
+const SearchLightPrivacyPolicy = () => {
     const imageSrc = "/images/SearchLight_icon.jpg"; // Provide the correct path to your image
   
     return (
@@ -28,4 +28,4 @@ const NewSubpage = () => {
     );
 };
 
-export default NewSubpage;
+export default SearchLightPrivacyPolicy;

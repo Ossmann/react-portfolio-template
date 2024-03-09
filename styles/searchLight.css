@@ -1,0 +1,38 @@
+
+/* searchLightPrivacyPolicy.css */
+
+/* Add your custom CSS rules here */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+
+  body {
+    background: linear-gradient(to bottom, transparent, transparent 50%, #7BAFFE 50%, #BCD4F8);
+}
+
+  
+  /* Customize styles for specific elements on your page */
+  h3 {
+    color: #333;
+  }
+  
+  p {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  
+
+/* Style App Icon of the SearchLight Privacy page */
+
+.app-icon {
+    position: fixed;
+    top: 20px; /* Adjust as needed */
+    right: 20px; /* Adjust as needed */
+    width: 40px; /* Adjust as needed */
+    height: 40px; /* Adjust as needed */
+    z-index: 1000; /* Ensure the icon appears above other content */
+    border-radius: 50%; /* Makes the corners rounded */
+    box-shadow: 0 0 10px #BCD4F8; /* Outer glow effect */
+    filter: brightness(120%); /* Increase brightness to enhance glow effect */
+  }
