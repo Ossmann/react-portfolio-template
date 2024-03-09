@@ -8,7 +8,7 @@ const NewSubpage = () => {
   
     return (
       <div>
-        <img src={imageSrc} alt="App Icon" className="app-icon" />
+        <Image src={imageSrc} alt="App Icon" className="app-icon" />
       <h3>Privacy Policy</h3>
       <p>
         Thank you for considering using the application named "SearchLight".
