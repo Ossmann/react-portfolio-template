@@ -28,9 +28,9 @@
     "projects": [
       {
         "id": "1",
-        "title": "Finance ChartsSwiper",
-        "description": "iOS WestPac Hackaton",
-        "imageSrc": "https://drive.google.com/uc?id=15rXooHoWdBInd4vgEvecZDnyxSqPANvy",
+        "title": "SearchLight",
+        "description": "Swift app for invest ideas",
+        "imageSrc": "/images/SearchLight_Cover.jpg",
         "url": "https://www.youtube.com/watch?v=dZ-hsCirnrA&ab_channel=JakobOssmann"
       },
       {
