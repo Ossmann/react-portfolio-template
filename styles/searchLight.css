@@ -5,12 +5,12 @@
 .container {
     max-width: 800px;
     margin: 0 auto;
-    padding: 40px;
   }
 
   body {
     /* background: linear-gradient(to bottom right, transparent 0%, #BCD4F8 25%, #7BAFFE, #BCD4F8 75%, transparent 100%); */
-    color: #BCD4F8;
+    color: #D3F7FF;
+    padding: 40px
 }
 
   
