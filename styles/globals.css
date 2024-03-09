@@ -75,3 +75,19 @@ body {
   background: inherit;
   border-radius: inherit;
 }
+
+/* Style App Icon of the SearchLight Privacy page */
+
+.app-icon {
+  position: fixed;
+  top: 20px; /* Adjust as needed */
+  right: 20px; /* Adjust as needed */
+  width: 40px; /* Adjust as needed */
+  height: 40px; /* Adjust as needed */
+  z-index: 1000; /* Ensure the icon appears above other content */
+  border-radius: 50%; /* Makes the corners rounded */
+  box-shadow: 0 0 10px #BCD4F8; /* Outer glow effect */
+  filter: brightness(120%); /* Increase brightness to enhance glow effect */
+}
+
+
