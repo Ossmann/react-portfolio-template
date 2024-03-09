@@ -1,15 +1,18 @@
 // New Subpage for the Privacy Policy of SearchLight App
 
-import Image from 'next/image';
 import { ThemeProvider } from "next-themes";
+import Image from 'next/image';
+
 
 const SearchLightPrivacyPolicy = () => {
     const imageSrc = "/images/SearchLight_icon.png"; // Provide the correct path to your image
   
     return (
       <ThemeProvider>
-        <div>
-          <Image src={imageSrc} alt="App Icon" className="app-icon" />
+        <div style={{ position: 'relative' }}>
+          <div className="app-icon">
+            <Image src={imageSrc} alt="App Icon" width={40} height={40} />
+          </div>
           <h3>Privacy Policy</h3>
           <p>
             Thank you for considering using the application named &quot;SearchLight&quot;.
@@ -30,4 +33,5 @@ const SearchLightPrivacyPolicy = () => {
 };
 
 export default SearchLightPrivacyPolicy;
+
 
