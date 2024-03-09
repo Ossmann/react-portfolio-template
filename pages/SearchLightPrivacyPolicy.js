@@ -1,6 +1,7 @@
 // New Subpage for the Privacy Policy of SearchLight App
 
 import "../styles/globals.css";
+import Image from 'next/image';
 import { ThemeProvider } from "next-themes";
 
 const NewSubpage = () => {
